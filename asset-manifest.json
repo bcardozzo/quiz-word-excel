@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quiz-word-excel/static/css/main.e6c13ad2.css",
-    "main.js": "/quiz-word-excel/static/js/main.d3aa4d6d.js",
+    "main.js": "/quiz-word-excel/static/js/main.d11c4aaa.js",
     "static/js/453.3f6d7fe3.chunk.js": "/quiz-word-excel/static/js/453.3f6d7fe3.chunk.js",
     "index.html": "/quiz-word-excel/index.html",
     "main.e6c13ad2.css.map": "/quiz-word-excel/static/css/main.e6c13ad2.css.map",
-    "main.d3aa4d6d.js.map": "/quiz-word-excel/static/js/main.d3aa4d6d.js.map",
+    "main.d11c4aaa.js.map": "/quiz-word-excel/static/js/main.d11c4aaa.js.map",
     "453.3f6d7fe3.chunk.js.map": "/quiz-word-excel/static/js/453.3f6d7fe3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d3aa4d6d.js"
+    "static/js/main.d11c4aaa.js"
   ]
 }
